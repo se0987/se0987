@@ -30,4 +30,16 @@
 </p>
 </details>
 --->
-<!--- 깃허브 꾸미기 정리글 https://soo-vely-dev.tistory.com/159 --->
+
+<br/><br/>
+
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=se)](https://solved.ac/tmdms12)
+
+<!--- 백준 나타내는거 알아보기
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=se)](https://www.acmicpc.net/user/tmdms12)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tmdms12)](https://solved.ac/tmdms12)
+
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=se)](https://solved.ac/tmdms12)
+
+[![Solved.ac profile grass](http://mazandi.herokuapp.com/api?handle=carbonsix&theme=dark)](https://solved.ac/tmdms12)
+--->
