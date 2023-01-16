@@ -1,4 +1,5 @@
 <!--- 검정 #303030, 분홍 #FF9D9D
+가능한 아이콘 목록 https://simpleicons.org/
 뱃지 : Hits, Gmail, Notion, (Blog:naver)
 [![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/주소)](https://blog.naver.com/주소) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://yeondube.tistory.com/)
@@ -34,6 +35,7 @@
 <br/><br/>
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=se)](https://solved.ac/tmdms12)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=se&theme=dark)
 
 <!--- 백준 나타내는거 알아보기
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=se)](https://www.acmicpc.net/user/tmdms12)
