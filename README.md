@@ -10,9 +10,9 @@
 [![Notion Badge](https://img.shields.io/badge/-Notion-303030?logo=notion&logoColor=white&link=https://www.notion.so/se0987/Home-446e9f779e194076b6f451c3bfa7e7cf)](https://www.notion.so/se0987/Home-446e9f779e194076b6f451c3bfa7e7cf)
 
 
-<h1>🐣</h1>
-:cloud:  안녕하세요. SW를 공부중인 SE입니다. <br/>
-:blush: 저는 열심히 공부해서 게임을 만들고 싶어요.<br/>
+<h1>:tiger2:</h1>
+:cloud:  안녕하세요. SW를 공부중인 학생입니다. <br/>
+:blush: 열심히 공부해서 게임을 만들고 싶어요.<br/>
 :books: 지금은 SSAFY 9기에 지원하여 공부하고 있습니다.<br/>
 :seedling: 현재 목표는 꾸준히 공부하고 성실하게 기록하는 것 입니다.<br/>
 
@@ -20,9 +20,16 @@
 
 <details open>
 <summary>:blossom: 2023 History</summary>
-&nbsp;:leaves:SSAFY 9기
+&nbsp;
+:leaves:SSAFY 9기 
+<br/>&ensp; &ensp; + SSAFYcial
   
 </details>
+
+<br/><br/>
+<!--- 백준티어 및 솔브 잔디 --->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tmdms12)](https://solved.ac/tmdms12)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tmdms12&theme=warm)
 
 <!--- 토글 접은상태 기본
 <details markdown="1">
@@ -31,18 +38,4 @@
 
 </p>
 </details>
---->
-
-<br/><br/>
-
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=se)](https://solved.ac/tmdms12)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=se&theme=dark)
-
-<!--- 백준 나타내는거 알아보기
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=se)](https://www.acmicpc.net/user/tmdms12)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tmdms12)](https://solved.ac/tmdms12)
-
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=se)](https://solved.ac/tmdms12)
-
-[![Solved.ac profile grass](http://mazandi.herokuapp.com/api?handle=carbonsix&theme=dark)](https://solved.ac/tmdms12)
 --->
