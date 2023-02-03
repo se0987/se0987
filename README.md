@@ -6,9 +6,13 @@
 --->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fse0987&count_bg=%23303030&title_bg=%23FF9D9D&icon=&icon_color=%23FFFFFF&title=today%2Ftotal&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-303030?style=flat&logo=Gmail&logoColor=white)](mailto:tmdms12@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-303030?style=flat&logo=Gmail&logoColor=white&labelColor=FF9D9D)](mailto:tmdms12@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-303030?style=flat&logo=Instagram&logoColor=white&labelColor=FF9D9D)](https://www.instagram.com/se_studing_9?r=nametag)
+
+<!--- 노션
 [![Notion Badge](https://img.shields.io/badge/-Notion-303030?logo=notion&logoColor=white&link=https://www.notion.so/se0987/Home-446e9f779e194076b6f451c3bfa7e7cf)](https://www.notion.so/se0987/Home-446e9f779e194076b6f451c3bfa7e7cf)
 
+--->
 
 <h1>:tiger2:</h1>
 :cloud:  안녕하세요. SW를 공부중인 학생입니다. <br/>
