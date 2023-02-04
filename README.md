@@ -20,26 +20,26 @@
 :books: 지금은 SSAFY 9기에 지원하여 공부하고 있습니다.<br/>
 :seedling: 현재 목표는 꾸준히 공부하고 성실하게 기록하는 것 입니다.<br/>
 
+
 <br/><br/>
 
+<!--- 백준티어 및 솔브 잔디 --->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tmdms12)](https://solved.ac/tmdms12)
+&nbsp;
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tmdms12&theme=warm)
+
+
+<h1></h1>
+<br/>
 <details open>
-<summary>:blossom: 2023 History</summary>
+<summary>2023 History</summary>
 &nbsp;
 :leaves:SSAFY 9기 
 <br/>&ensp; &ensp; + SSAFYcial
-  
 </details>
+<br/>
 
-<br/><br/>
-<!--- 백준티어 및 솔브 잔디 --->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tmdms12)](https://solved.ac/tmdms12)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=tmdms12&theme=warm)
-
-<!--- 토글 접은상태 기본
 <details markdown="1">
-<summary>2020 History</summary>
-<p>
-
-</p>
+<summary>Project</summary>
 </details>
---->
+<br/>
