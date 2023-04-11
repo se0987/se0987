@@ -8,7 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fse0987&count_bg=%23303030&title_bg=%23FF9D9D&icon=&icon_color=%23FFFFFF&title=today%2Ftotal&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-303030?style=flat&logo=Gmail&logoColor=white&labelColor=FF9D9D)](mailto:tmdms12@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-303030?style=flat&logo=Instagram&logoColor=white&labelColor=FF9D9D)](https://www.instagram.com/se_studing_9?r=nametag)
-[![Notion Badge](https://img.shields.io/badge/-Notion-303030?logo=notion&logoColor=white&labelColor=FF9D9D)](https://www.notion.so/7ecca53d3b1f40d081c1eb5c9ca17abe?pvs=4)
+<!-- [![Notion Badge](https://img.shields.io/badge/-Notion-303030?logo=notion&logoColor=white&labelColor=FF9D9D)](https://www.notion.so/seungeun98/7ecca53d3b1f40d081c1eb5c9ca17abe?pvs=4) -->
 
 
 <h1>:tiger2:</h1>
